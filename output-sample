@@ -1,0 +1,62 @@
+augustus__SCAFFOLD2__SIZE1116217__processed__gene__0__76__mRNA__1-multi-spec.align.fasta
+
+Microsatellites of length 9bp.
+
+		Position	Sequence	Amino-Acid Sequence
+
+
+ellus		1923		GCAGCTGCT	AAA
+muni		1923		GCAGCTGCT	AAA
+nvit		N/A		N/A		N/A
+rap		1923		GCAGCTGCT	AAA
+
+ellus		2022		CACCACCAT	HHH
+muni		2022		CACCACCAT	HHH
+nvit		2022		CACCATCAT	HHH
+rap		2022		CACCATCAT	HHH
+
+ellus		3057		CCACCACCT	PPP
+muni		3057		CCACCACCT	PPP
+nvit		3057		CCACCACCT	PPP
+rap		3057		CCACCACCT	PPP
+
+ellus		3567		TTCTTCTTC	FFF
+muni		3567		TTCTTCTTC	FFF
+nvit		3567		TTCTTCTTT	FFF
+rap		3567		TTCTTCTTC	FFF
+
+ellus		4233		GTCGTGGTC	VVV
+muni		4233		GTCGTGGTC	VVV
+nvit		4233		GTCGTAGTC	VVV
+rap		4233		GTCGTAGTC	VVV
+
+ellus		4578		GAAGAAGAG	EEE
+muni		4578		GAAGAAGAG	EEE
+nvit		4578		GAAGAAGAG	EEE
+rap		4578		GAAGAAGAG	EEE
+
+ellus		5196		GCTGCTGCG	AAA
+muni		5196		GCTGCTGCG	AAA
+nvit		5196		GCTGCTGCG	AAA
+rap		5196		GCTGCTGCG	AAA
+
+ellus		5586		ATTATTATT	III
+muni		5586		ATTATTATT	III
+nvit		5586		ATTATTATT	III
+rap		5586		ATTATTATT	III
+
+ellus		5595		GGTGGTGGA	GGG
+muni		5595		GGTGGTGGA	GGG
+nvit		5595		GGAGGTGGT	GGG
+rap		5595		GGTGGTGGA	GGG
+
+
+Microsatellites of length 12bp.
+
+		Position	Sequence	Amino-Acid Sequence
+
+
+ellus		N/A		N/A		N/A
+muni		N/A		N/A		N/A
+nvit		4230		GTCGTCGTAGTC	VVVV
+rap		N/A		N/A		N/A
