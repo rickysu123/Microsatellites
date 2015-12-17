@@ -1,5 +1,5 @@
 # Microsatellites
-Wrote this program with knowledge from only the Codecademy Python course, so really anything is possible! 
+Wrote this program with knowledge from only an online Python course, so really anything is possible! 
 
 Finds microsatellites of length 6 and 9, in multi-fasta files. Microsatellites are repeated amino-acid sequences in genome assemblies. For example: ACTACTACT. Here, the motif is ACT, and is repeated 3 times. A single fasta file gives the genome assembly of a single gene of a single species. The file starts with a ">" character, followed by the description of the gene. Then, the genome assembly is given.
 
